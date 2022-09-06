@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is the course account for AMS 562, **Introduction to Scientific Computing using C++**, being offered in the fall semester of 2022 at Stony Brook University.
+
+Relevant repositories for this course:
+* [Docker Image](https://github.com/compdatasci/ams562-desktop)
+* [Lecture notes](https://github.com/chiao45/ams562-notes)
 <!--
 **ams562f2022/ams562f2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
